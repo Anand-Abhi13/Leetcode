@@ -1,4 +1,4 @@
 # Leetcode
-Leetcode Practice
-Neetcode 150
-BLind 75
+Leetcode Practice /n
+Neetcode 150 /n
+BLind 75 /n
